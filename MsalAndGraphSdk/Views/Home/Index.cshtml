@@ -1,0 +1,19 @@
+@{
+    ViewBag.Title = "Global Office 365 Developer Bootcamp 2018 Japan";
+}
+<div class="row">
+    <div class="col-md-12 text-center">
+        <h1>@ViewBag.Title</h1>
+        <a asp-controller="Account" asp-action="Authorize"><img src="~/images/signin.svg" alt="Sign in with Microsoft" /></a>
+    </div>
+</div>
+@section Scripts {
+    <script>
+        $(() => {
+            var displayName = '@ViewBag.DisplayName';
+            if (displayName) {
+                alert("ようこそ " + displayName + " さん！");
+            }
+        });
+    </script>
+}
