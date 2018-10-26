@@ -1,6 +1,6 @@
 # Global Office 365 Developer Bootcamp 2018 Japan
 
-[Global Office 365 Developer Bootcamp 2018 Japan](https://connpass.com/event/91901/) の Microsoft Graph ハンズオンの資料です。
+[Global Office 365 Developer Bootcamp 2018 Japan](https://connpass.com/event/91901/) の Microsoft Graph ハンズオンの資料です。スライドは [SpeakerDeck](https://speakerdeck.com/karamem0/global-office-365-developer-bootcamp-microsoft-graph-handson) で表示または [ダウンロード](global-o365-dev-bootcamp-japan-microsoft-graph-handson.pdf) することができます。
 
 ## 事前準備
 
